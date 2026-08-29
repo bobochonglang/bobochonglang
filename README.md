@@ -6,7 +6,10 @@
 [![Telegram Channel](https://img.shields.io/badge/Telegram-@bobochonglang-29b6f6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+gqFb02uF9RNjY2Zl)
 [![GitHub](https://img.shields.io/badge/GitHub-bobochonglang-7928ca?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bobochonglang)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=120&section=header&text=Bobo%20Surf%20&%20Cyber%20Kawaii&fontSize=24&fontColor=fff&animation=fadeIn" width="100%" />
+<br/>
+
+<!-- 优化后的粉嫩渐变动态横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=12%3Afff0f5%2C34%3Affe4e1%2C68%3Affb6c1%2C100%3Aff69b4&height=140&section=header&text=Bobo%20Surf%20&%20Cyber%20Kawaii&fontSize=26&fontColor=fff&fontAlignY=50&animation=fadeIn" width="100%" />
 
 </div>
 
